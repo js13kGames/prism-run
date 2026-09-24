@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - strategy
 directors_cut: https://prismrun.netlify.app/
 video: https://youtu.be/_54od1dG_Gw
 post: https://gp01002-code.github.io/miss01/
